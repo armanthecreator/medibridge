@@ -1,0 +1,40 @@
+/* Header Responsive Css */
+@media (max-width:768px){
+    header {
+	padding: 0 15px;
+}
+}
+/* Banner Responsive Css */
+@media (max-width:768px){
+#banner {
+	padding: 0 15px;
+}
+.banner-left {
+	width: 100%;
+}
+.banner-right {
+	width: 100%;
+	text-align: center;
+}
+}
+/* Header Responsive Css */
+@media (max-width:768px){
+.service-contetn-row {
+	width: 100%;
+}
+}
+/* Service Responsive Css */
+@media (max-width:768px){
+.box1 {
+	width: 48%;
+}
+.box-content-row {
+	padding: 0px 15px;
+}
+}
+/* Header Responsive Css */
+@media (max-width:768px){
+    header {
+	padding: 0 15px;
+}
+}
