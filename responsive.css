@@ -32,9 +32,38 @@
 	padding: 0px 15px;
 }
 }
-/* Header Responsive Css */
+/* Image Slider Responsive Css */
 @media (max-width:768px){
-    header {
+.slider img {
+	width: 100%;
+}
+}
+/* Spectrum Responsive Css */
+@media (max-width:768px){
+.spectrum {
 	padding: 0 15px;
 }
+.left-spectrum {
+	width: 100%;
 }
+.left-spectrum img {
+	width: 100%;
+}
+.right-spectrum {
+	width: 100%;
+}
+.right-spectrum {
+	width: 100%;
+}
+.check-box-left {
+	width:50%;
+}
+.check-box-right {
+	width:50%;
+}
+}
+/* Team Responsive css */
+#team {
+	padding: 0 15px;
+}
+
